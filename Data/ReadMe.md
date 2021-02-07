@@ -1,0 +1,1 @@
+Hello, this folder is the parent directory in which all our data will be found, both raw and processed. A final data set will reside in this directory
