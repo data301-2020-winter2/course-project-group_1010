@@ -1,0 +1,1 @@
+Hello, here you will find any external images that we used during this project.
