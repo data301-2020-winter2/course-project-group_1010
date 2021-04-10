@@ -6,9 +6,7 @@
 ## Milestones
 ---
 Milestone 1: Choosing our data set.
-Milestone 2: EDA.
-Milestone 3: Addressing issues and Tableau
-Milestone 4: Describing Dataset 
+Milestone 2: TBD.
 
 ## Describe your topic/interest in about 150-200 words
 ---
@@ -31,5 +29,3 @@ The dataset is a small sample of USA medical insurance costs. The content includ
 ## References
 ---
 Link to original dataset (https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a
-
-Link to Tableau file https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346194?:origin=card_share_link
